@@ -11,8 +11,8 @@ During my design, I excelled at business requirements documentation. My answers 
 
 What could be improved or revised?
 
-The charts I created during the System design documents could have been improved in many ways, including selecting better metrics to chart from the outset. In particular, I was not a big fan of my final UML sequence diagram. This may be personal bias toward those diagrams in general, but the readability was lacking.
+The charts I created during the System design documents could have been improved in many ways, including selecting better metrics to chart from the outset. In particular, I was not satisfied with my final UML sequence diagram. This may reflect a personal bias toward those diagrams in general, but their readability was lacking.
 
 How do I approach Software design?
 
-Software design is based on an approach that first considers what the end product should be. It is a cycle of shorts: we use what they want the final product to be to begin creating the initial steps toward that final product. Along the way, things may change constantly, but the visual representation is vital to getting there.
+Software design is based on an approach that first considers the end product. It is a cycle of sorts: we use what they want the final product to be to begin the initial steps toward it. Along the way, circumstances may change constantly, but the visual representation is vital to reaching the destination.
